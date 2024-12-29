@@ -10,4 +10,5 @@ Then I generated a simple bar plot to analyze the effect of occupation on coupon
 From these two analysis subsets, I would recommend that the coupon corproation target drivers who have their parnter in the car, drivers who are 31-46, and/or drivers who work in 'support' professions.
 
 The detailed analysis can be found in the Jupyter Notebook:
-[prompt.ipynb](url)
+[View the Jupyter Notebook](prompt.ipynb)
+
